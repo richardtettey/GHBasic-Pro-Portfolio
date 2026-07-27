@@ -6,6 +6,8 @@ GHBasic Pro is a cloud-based school management and automated report card platfor
 
 * Student management
 * Teacher management
+* Fees management
+* Attendance management
 * Automated report card generation
 * Academic performance analytics
 * BECE aggregate calculation
